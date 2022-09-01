@@ -796,4 +796,8 @@
     width: 40px;
     height: 40px;
   }
+  
+  .footer__label p {
+    margin-top: 0;
+  }
 }
